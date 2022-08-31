@@ -66,11 +66,13 @@ questions = {
 }
 
 # this is a list of choice it uses list for the choices.
-options = [["A. ALGOL", "B. COBOL", "C. PASCAL", "D. DRAM"],
+options = [
+    ["A. ALGOL", "B. COBOL", "C. PASCAL", "D. DRAM"],
 ["A. Virus", "B. Worms", "C. Trojans", "D. Spyware"],
 ["A. Only 1", "B. Only 2", "C. Both", "D. Neither 1 nor 2"],
 ["A. John Mauchly", "B. J. Presper Eckert", "C. Gladeon M. Barnes", "D. A & B both"],
-["A. Larry Wall","B. Guido van Rossum", "C. Joe Armstrong", "D. Yukihiro Matsumoto"]]
+["A. Larry Wall","B. Guido van Rossum", "C. Joe Armstrong", "D. Yukihiro Matsumoto"]
+]
 
 new_game()
 
