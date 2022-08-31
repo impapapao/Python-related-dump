@@ -1,5 +1,6 @@
-# python quiz
-description: a program quiz for python <br />
-This will be my first mini project to github <br />
-credits to Bro codez for the idea
+# Python related
+description: <br />
+this is all Python related programming. for may experiment and knowledge gaining<br />
+This will be my first ever in github <br />
+
  
