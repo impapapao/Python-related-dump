@@ -59,7 +59,7 @@ def play_again():
 # this is the list of question it uses dictionary for the questions.
 questions = {
     "1. Which among the following is not a computer language?": "D",
-    "2. A sort malware computer program that keeps replicating\n itself and can easily get diffused into other computer through internet is kwnow as?": "B",
+    "2. A sort malware computer program that keeps replicating\n itself and can easily get diffused into other computer through internet is know as?": "B",
     "3. Consider the following statements:\n a. A file is a characteristically collection of logically related information. \n b. In DOS system, there is a defined technique to put file name. \n Choose the correct answer from the coeds given below:": "C",
     "4. Who among the following designed the first \nelectronic computer namely Electronic Numerical Integrator and Computer?": "D",
     "5. Who among the following has designed the Python programming Lanuage?": "B"
